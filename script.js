@@ -1,3 +1,5 @@
+const BACKEND_URL = "https://positive-wandering-homegrown.glitch.me";
+
 document.addEventListener("DOMContentLoaded", function () {
     const quizForm = document.getElementById("quiz-form");
     const resultDisplay = document.getElementById("result");
